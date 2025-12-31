@@ -62,9 +62,9 @@ I want you to know that you are the most precious person in my life. Every day w
       chooseTrackHint: "Choose a song to start the party ✨",
       continueButton: "Continue to Next ✨",
       tracks: [
-        { id: 1, title: "Happy New Year - ABBA", caption: "Classic vibes for a fresh start! 🎊" },
-        { id: 2, title: "Auld Lang Syne", caption: "Remember the good times and friends! 🎉" },
-        { id: 3, title: "Firework - Katy Perry", caption: "Shine bright in 2026! 🎉" }
+        { id: 1, title: "Happy New Year ", caption: "Classic vibes for a fresh start! 🎊" },
+        { id: 2, title: "always shine like a Gem", caption: "Remember the good times and friends! 🎉" },
+        { id: 3, title: "let's celebrate", caption: "Shine bright in 2026! 🎉" }
       ]
     },
 
@@ -105,9 +105,9 @@ I want you to know that you are the most precious person in my life. Every day w
         stay: "Stay and celebrate more!"
       },
       cardMessages: [
-        "May your year be filled with new hopes, new joy, and new beginnings! 🎉",
+        "May your year be filled with new hopes, new joy, and new beginnings! and let's make some new memories together! 🎉",
         "Wishing you health, wealth, and happiness in 2026! 🎊",
-        "May every day sparkle with positivity and love! 🎉"
+        "May every day sparkle with positivity and love! and you will achieve great things! 🎉"
       ]
     },
 
